@@ -1,5 +1,15 @@
 ![Airplane Trails](https://github.com/sourceduty/Airplane_Contrails/assets/123030236/eea53ea7-628d-4f3a-bdc0-f5d0a5af88d7)
 
+> Controlling airplane vortices and contrails in the atmosphere.
+
+#
+
+Frozen wingtip vortices and contrails are both atmospheric phenomena associated with aircraft, but they have distinct differences. Frozen wingtip vortices are circular patterns of rotating air left behind an aircraft's wings as they generate lift. They can occur at points other than just the wingtips and are primarily responsible for wake turbulence. Depending on atmospheric conditions and aircraft characteristics, water vapor within the vortices may freeze, making them visible.
+
+Contrails, on the other hand, are long, thin clouds that form behind aircraft due to water vapor condensing and freezing around particles in the aircraft's exhaust. These particles typically include soot and sulfur emissions. Contrails form at high altitudes where the air is cold enough for the water vapor to freeze into ice crystals. They are commonly observed in the sky, especially in regions with heavy air traffic, and can sometimes spread out to form cirrus-like clouds known as "persistent contrails."
+
+In summary, while both frozen wingtip vortices and contrails involve the freezing of water vapor associated with aircraft, they arise from different mechanisms and serve different functions. Frozen wingtip vortices primarily relate to the aerodynamics of lift generation and wake turbulence, while contrails are a consequence of aircraft engine emissions and atmospheric conditions at high altitudes.
+
 ### Exhaust Trails
 
 Contrails, a contraction of "condensation trails," are elongated clouds that develop behind airplanes due to the condensation and freezing of water vapor around minute particles present in aircraft exhaust. These particles, including soot and sulfur emissions, act as nuclei around which the water vapor condenses and freezes. Contrails typically form at high altitudes where the atmospheric conditions are conducive to the formation of ice crystals from the water vapor. Their persistence and behavior depend on various factors such as temperature, humidity, and the composition of the aircraft exhaust. In regions with high air traffic, contrails are a familiar sight in the sky and can sometimes spread out to create cirrus-like clouds known as "persistent contrails."
@@ -7,14 +17,6 @@ Contrails, a contraction of "condensation trails," are elongated clouds that dev
 ### Airplane Vortices
 
 Wingtip vortices are circular patterns of rotating air that trail behind an aircraft's wings as they generate lift. Despite the name, the cores of these vortices are actually slightly inboard of the wingtips. They are also known as trailing or lift-induced vortices because they can occur at points other than just the wingtips. These vortices play a significant role in wake turbulence, posing potential hazards to nearby aircraft. Depending on factors such as ambient atmospheric humidity, aircraft geometry, and wing loading, water vapor may condense or freeze within the core of the vortices, rendering them visible. This water-vapor condensation mechanism in wingtip vortices is driven by local changes in air pressure and temperature.
-
-### Vortices and Contrails
-
-Frozen wingtip vortices and contrails are both atmospheric phenomena associated with aircraft, but they have distinct differences. Frozen wingtip vortices are circular patterns of rotating air left behind an aircraft's wings as they generate lift. They can occur at points other than just the wingtips and are primarily responsible for wake turbulence. Depending on atmospheric conditions and aircraft characteristics, water vapor within the vortices may freeze, making them visible.
-
-Contrails, on the other hand, are long, thin clouds that form behind aircraft due to water vapor condensing and freezing around particles in the aircraft's exhaust. These particles typically include soot and sulfur emissions. Contrails form at high altitudes where the air is cold enough for the water vapor to freeze into ice crystals. They are commonly observed in the sky, especially in regions with heavy air traffic, and can sometimes spread out to form cirrus-like clouds known as "persistent contrails."
-
-In summary, while both frozen wingtip vortices and contrails involve the freezing of water vapor associated with aircraft, they arise from different mechanisms and serve different functions. Frozen wingtip vortices primarily relate to the aerodynamics of lift generation and wake turbulence, while contrails are a consequence of aircraft engine emissions and atmospheric conditions at high altitudes.
 
 ### Airplane Design
 
